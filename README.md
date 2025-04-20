@@ -27,5 +27,7 @@ This creates an iOS widget, which displays the next 3 bus arrivals for the bus s
 - It is not possible to refresh the data once a minute. Apple determines its refresh rate, which is normally every few minutes. So to make it usable, the user can tap on the widget to run the script from Scriptable. After that, if you go back to your home screen, the widget will be showing the updated information.
 - The publicly available `/EMT_Valencia/emt.json` file is almost 500 KB in size. That is apparently too much for iOS widgets, and the script would crash upon reading the file. That is why the `reduce_emt_data.py` Python script is provided. Upon launch, it will read the `emt.json` file and output only the necessary information distributed in 10 files: `emt_1.json` to `emt_10.json`. Those files are the ones the widget reads, one by one, when determining the closest bus stop.
 
-
+## Tech stack
+- Javascript
+- [Scriptable](https://scriptable.app)
 
