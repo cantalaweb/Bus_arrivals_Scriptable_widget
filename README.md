@@ -1,6 +1,6 @@
 ## Introduction
 This creates an iOS widget, which displays the next 3 bus arrivals for the bus stop closest to the user. It uses the data for the municipal bus service (EMT) for the city of Valencia (Spain).
-![home_screen.png]
+![](home_screen.png)
 
 ## Requirements
 - [Scriptable](https://scriptable.app) must be installed in your iOS device.
