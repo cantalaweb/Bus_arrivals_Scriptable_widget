@@ -1,0 +1,793 @@
+[
+    {
+        "denominacion": "Sant Francesc de Borja - Jesús (761)",
+        "lat": 39.46600251713517,
+        "lon": -0.38513212159805715,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=761",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "IVAM (796)",
+        "lat": 39.48002307784448,
+        "lon": -0.38293125465284933,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=796",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Joaquín Benlloch - Oltà (621)",
+        "lat": 39.45231574613625,
+        "lon": -0.3755675178299468,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=621",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Bèrnia - Ausiàs March (639)",
+        "lat": 39.45403360415668,
+        "lon": -0.37270548352234756,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=639",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Real de Madrid - Hellín (588)",
+        "lat": 39.43395856502526,
+        "lon": -0.39112143546933076,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=588",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Mestre Racional - Regne de València (602)",
+        "lat": 39.46343654105763,
+        "lon": -0.36329135426121617,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=602",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Primat Reig - Bilbao (206)",
+        "lat": 39.490142892523416,
+        "lon": -0.3715588686786924,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=206",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Sant Doménec Savio - Constitució (273)",
+        "lat": 39.49239707202728,
+        "lon": -0.374108750873881,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=273",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Jaume Roig - Álvaro de Bazán (174)",
+        "lat": 39.48127042429335,
+        "lon": -0.3639104429842347,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=174",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Emili Baró - Francesc Martínez (179)",
+        "lat": 39.488297463421254,
+        "lon": -0.3604598366988009,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=179",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Primat Reig - Emili Baró (194)",
+        "lat": 39.48440252426396,
+        "lon": -0.36332855980841294,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=194",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Mercat del Cabanyal (54)",
+        "lat": 39.46831556303038,
+        "lon": -0.33241183845307887,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=54",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Petxina - Ferran el Catòlic (1424)",
+        "lat": 39.477184088755735,
+        "lon": -0.39068182185329486,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1424",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Blasco Ibáñez - Bèlgica (169)",
+        "lat": 39.47583189033342,
+        "lon": -0.35483999726230825,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=169",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Giorgeta - Albacete (1690)",
+        "lat": 39.46154303335536,
+        "lon": -0.38600264315793864,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1690",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Cardenal Benlloch -La  Pobla de Farnals (1677)",
+        "lat": 39.469942730509096,
+        "lon": -0.35491934375558276,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1677",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Primat Reig - Viver (1680)",
+        "lat": 39.48608666232242,
+        "lon": -0.36563642013248315,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1680",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Illes Canàries - Trafalgar (1595)",
+        "lat": 39.46310543099896,
+        "lon": -0.3446181307742784,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1595",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Port - Noguera (1621)",
+        "lat": 39.46253756205425,
+        "lon": -0.34182765825892686,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1621",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Joan Verdeguer - Isaac Peral (1592)",
+        "lat": 39.45904837476364,
+        "lon": -0.3393311092781367,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1592",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "La Carrasca (1361)",
+        "lat": 39.47990625445434,
+        "lon": -0.34469609422232644,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1361",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Museu Faller (1765)",
+        "lat": 39.45917158425204,
+        "lon": -0.35857437973099404,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1765",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Serradora - Sants Just i Pastor (1756)",
+        "lat": 39.46629622267687,
+        "lon": -0.3354156473789799,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1756",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Ruaya (parell) - Visitació (1808)",
+        "lat": 39.48555886989051,
+        "lon": -0.377084971955387,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1808",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Col·legi Major (1900)",
+        "lat": 39.478523473845776,
+        "lon": -0.3399071164948644,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1900",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Tarongers - Aparcament (1898)",
+        "lat": 39.47692974279595,
+        "lon": -0.33593201968621483,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1898",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gaspar Aguilar (parell) - Dr. Tomas Sala (1929)",
+        "lat": 39.450423704699865,
+        "lon": -0.39452080221481267,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1929",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gaspar Aguilar - Costa i Borràs (1932)",
+        "lat": 39.45587125376543,
+        "lon": -0.3906088453093768,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1932",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Fires(imparell) - Cementeri (1714)",
+        "lat": 39.505618290419605,
+        "lon": -0.4246377985327163,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1714",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Corts Valencianes - Dr. Barraquer (1721)",
+        "lat": 39.508722204627325,
+        "lon": -0.36517785944585274,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1721",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Pinedo (1706)",
+        "lat": 39.41949515652359,
+        "lon": -0.33597405885335174,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1706",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Reina - Espadan (1671)",
+        "lat": 39.471601819931124,
+        "lon": -0.3282726384265573,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1671",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Menorca -  Centre Comercial (1746)",
+        "lat": 39.457584893663594,
+        "lon": -0.3450229987909387,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1746",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Sants Just i Pastor - Lluís de Milà (139)",
+        "lat": 39.470892545462505,
+        "lon": -0.3528486962192548,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=139",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Dr. Gómez Ferrer - Menéndez y Pelayo (170)",
+        "lat": 39.47996827344468,
+        "lon": -0.36083709213825343,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=170",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Port - Eduard Boscà (1616)",
+        "lat": 39.466762126378505,
+        "lon": -0.3559793427821633,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1616",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Port - Pare Porta (1623)",
+        "lat": 39.460773401715926,
+        "lon": -0.33581060190087636,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1623",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Ausiàs March - Dr. Waksman (1436)",
+        "lat": 39.45609635059102,
+        "lon": -0.37486549306784894,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1436",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "França-Pintor Maella (1539)",
+        "lat": 39.4593131151159,
+        "lon": -0.3488373728153225,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1539",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Burjassot - Salvador Tuset (309)",
+        "lat": 39.494579715291096,
+        "lon": -0.39560262501317006,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=309",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Dr. Moliner - Arts Gràfiques (337)",
+        "lat": 39.476328347895304,
+        "lon": -0.36272445613415766,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=337",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "la Malva-rosa - Sant Joan de Deu (25)",
+        "lat": 39.47737855580582,
+        "lon": -0.3281644707613916,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=25",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Jaime Beltrán - Misser Rabassa (961)",
+        "lat": 39.45660506260529,
+        "lon": -0.38795203426403874,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=961",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Dr. Tomàs Sala - Carters (1443)",
+        "lat": 39.447666386149145,
+        "lon": -0.39055531059254134,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1443",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gavines (parell) - Platja (2180)",
+        "lat": 39.297596296685256,
+        "lon": -0.2892315442557703,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2180",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Actor Antonio Ferrandis (imparell) - En Corts (2240)",
+        "lat": 39.448551757224315,
+        "lon": -0.3624389000375285,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2240",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Les Corts (2032)",
+        "lat": 39.47872157854415,
+        "lon": -0.3742677624589383,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2032",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gavines - Botavara (2194)",
+        "lat": 39.30528470219565,
+        "lon": -0.2945519235758161,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2194",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gavines - Les dunes (2193)",
+        "lat": 39.30210177176995,
+        "lon": -0.29169434896846114,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2193",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Gola de Puchol (IV) (2198)",
+        "lat": 39.357493611266456,
+        "lon": -0.32086058821602126,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2198",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Pinars (parell) - El Saler (2165)",
+        "lat": 39.38320878943973,
+        "lon": -0.33254542772893125,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2165",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Palau de Justícia (2257)",
+        "lat": 39.47207596206278,
+        "lon": -0.36956817829456495,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2257",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Passeig Marítim - Pavia (2271)",
+        "lat": 39.4742645348839,
+        "lon": -0.32460945801156404,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2271",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Colón - Pascual i Genís (2260)",
+        "lat": 39.46819493294377,
+        "lon": -0.3735744715296922,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2260",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Estació del Nord (2261)",
+        "lat": 39.467514635721294,
+        "lon": -0.37649526457013743,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2261",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Campus Tarongers (1283)",
+        "lat": 39.47927736170695,
+        "lon": -0.34532807433998286,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1283",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Espinosa - Ferran el Catòlic (1298)",
+        "lat": 39.4721221939705,
+        "lon": -0.3843959717064521,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1298",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Sant Doménec Savio - Josep Esteve (1129)",
+        "lat": 39.49602306488437,
+        "lon": -0.3755159116763595,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1129",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Centre de Salut Fonteta (1143)",
+        "lat": 39.442507726023,
+        "lon": -0.3681617463809649,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1143",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Centre de Salut Salvador Allende (1151)",
+        "lat": 39.49471895590445,
+        "lon": -0.37273030129435136,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1151",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Port - Trafalgar (2027)",
+        "lat": 39.46330636258073,
+        "lon": -0.34419196205892433,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2027",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Joaquím Ballester (imparell) - Pare Ferris (1812)",
+        "lat": 39.484813825417525,
+        "lon": -0.3854716070173363,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1812",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Arquitecte Segura de Lago - Dr. Rafael Bartual (1937)",
+        "lat": 39.4535227230909,
+        "lon": -0.40308755647828237,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1937",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Tarongers - Facultat de Magisteri (1949)",
+        "lat": 39.47981689713002,
+        "lon": -0.34599939834394794,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1949",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Pere II El Cerimonios - Vicente Beltrán Grimalt (1951)",
+        "lat": 39.462558899092706,
+        "lon": -0.347192148340816,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1951",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Molinell (imparell) - Alboraia (1806)",
+        "lat": 39.48520324342893,
+        "lon": -0.3700428613032802,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1806",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Pérez Galdós - Sant Josep de la Muntanya (1865)",
+        "lat": 39.473994685702266,
+        "lon": -0.39488896506346793,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1865",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Parc de Natzaret (2122)",
+        "lat": 39.44458966947652,
+        "lon": -0.33328721280162654,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2122",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Centre d'especialitats Ricard Trénor  (2231)",
+        "lat": 39.48185718248969,
+        "lon": -0.3705717018844134,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2231",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Almassora - Pintor Vilar (2234)",
+        "lat": 39.48286109940063,
+        "lon": -0.3726952078369107,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2234",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Roger de Llòria - Colón (2315)",
+        "lat": 39.46913251637978,
+        "lon": -0.37259575211011514,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2315",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Amado Granell Mesado (parell) - Antonio Ferrandis (2295)",
+        "lat": 39.45064884159421,
+        "lon": -0.35920142965635643,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2295",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Estació del Nord - Sant Pau (2312)",
+        "lat": 39.468393565184314,
+        "lon": -0.3778266392067869,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2312",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Félix del Río - Camí de Montcada (2301)",
+        "lat": 39.49198776163449,
+        "lon": -0.37947477999329565,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2301",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "País Valencià - València (2338)",
+        "lat": 39.42642679040525,
+        "lon": -0.3814167408394351,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2338",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "País Valencià - Pintor Sorolla (2340)",
+        "lat": 39.427966203019466,
+        "lon": -0.38477011143400464,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2340",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Passeig Marítim - Mediterrània (2341)",
+        "lat": 39.46830732255087,
+        "lon": -0.32457598427002543,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=2341",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Camí de Montcada - Gasolinera (1140)",
+        "lat": 39.5122945733796,
+        "lon": -0.3864642654513256,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1140",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Camí de Montcada - Camí Alqueria de Marquet (1152)",
+        "lat": 39.5122017270186,
+        "lon": -0.38633082134124713,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1152",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Passeig Marítim - Mendizábal (1162)",
+        "lat": 39.48355244046615,
+        "lon": -0.3252024019888047,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1162",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Tres Creus - Tres Forques (1177)",
+        "lat": 39.462802876516236,
+        "lon": -0.40546988921610605,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1177",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Corts Valencianes - Palau de Congressos (1319)",
+        "lat": 39.494183850192464,
+        "lon": -0.40181811153762703,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1319",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Polvorí - Sinarques (387)",
+        "lat": 39.500991787797524,
+        "lon": -0.42522663676222255,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=387",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Edifici del Rellotge (7)",
+        "lat": 39.46035702072443,
+        "lon": -0.3324961026053938,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=7",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Marina de València (1587)",
+        "lat": 39.46378658245906,
+        "lon": -0.3294739656056153,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1587",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Constitució (parell) - Tavernes Blanques (250)",
+        "lat": 39.50420124851776,
+        "lon": -0.36780207454484715,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=250",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Sants Just i Pastor - Lleons (136)",
+        "lat": 39.46975163452432,
+        "lon": -0.34799795800167294,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=136",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Blasco Ibáñez - Rubén Darío (154)",
+        "lat": 39.475908821952615,
+        "lon": -0.3539115521832035,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=154",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Emili Baró - Manuel Castellanos (178)",
+        "lat": 39.48670487857733,
+        "lon": -0.36126425691697295,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=178",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Primat Reig - Jaume Roig (186)",
+        "lat": 39.48407398723863,
+        "lon": -0.3633803278420699,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=186",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Cardenal Benlloch - Ciutat de Mula (225)",
+        "lat": 39.47432558037473,
+        "lon": -0.35315890133992645,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=225",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Eduard Boscà - Balears (231)",
+        "lat": 39.46429795476555,
+        "lon": -0.35772845387797686,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=231",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Florista (1330)",
+        "lat": 39.495574489483765,
+        "lon": -0.39743263129890005,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1330",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Regne de València (imparell) - Alcalde Reig (1363)",
+        "lat": 39.462427716848396,
+        "lon": -0.36117927817648254,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1363",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Dr. Peset Aleixandre - Guardacostes (242)",
+        "lat": 39.48998211816957,
+        "lon": -0.3829222819940433,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=242",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Camí de Montcada (parell) - Cambrils (280)",
+        "lat": 39.4946989253522,
+        "lon": -0.38015074417768174,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=280",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Camí de Montcada - Casa d'Àngel (284)",
+        "lat": 39.506847919125384,
+        "lon": -0.38396921301397063,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=284",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Camí de Montcada - Ctra. Carpesa (303)",
+        "lat": 39.50273142014839,
+        "lon": -0.38264649176434967,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=303",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Vall de la Ballestera - Campanar (64)",
+        "lat": 39.48091290492269,
+        "lon": -0.393545512567508,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=64",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Poliesportiu Natzaret - Moraira (70)",
+        "lat": 39.45055909542334,
+        "lon": -0.33242877535322085,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=70",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Inst. Obrer de Val. (imparell) - Amado Granell Mesado (1417)",
+        "lat": 39.45457962167039,
+        "lon": -0.36071520920458994,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1417",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Petxina - Pérez Galdos (1422)",
+        "lat": 39.474647788340086,
+        "lon": -0.39675385859092016,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1422",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Albereda - Illes Canàries (1430)",
+        "lat": 39.46788511246925,
+        "lon": -0.3604474562139681,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=1430",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Carpesa (290)",
+        "lat": 39.515098993531204,
+        "lon": -0.3773143752871361,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=290",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Túria (696)",
+        "lat": 39.47699300557139,
+        "lon": -0.3900978443496681,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=696",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Quart - Terol (749)",
+        "lat": 39.47461197811272,
+        "lon": -0.39128027130327875,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=749",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Fonteta Sant Lluís - Bèrnia (627)",
+        "lat": 39.45396312664135,
+        "lon": -0.37162165655642027,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=627",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "José Andreu Alabarta - Professor Àngel Lacalle (525)",
+        "lat": 39.454266735538795,
+        "lon": -0.404771350758735,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=525",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Tres Forques - Mare de Déu de la Cabeça (530)",
+        "lat": 39.46368117339872,
+        "lon": -0.3998469363943848,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=530",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Tres Forques - Churat i Saurí (532)",
+        "lat": 39.46400204524694,
+        "lon": -0.3919199326488302,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=532",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Dr. Lluch - Vicent Gallart (9)",
+        "lat": 39.46562731388932,
+        "lon": -0.32848401723716,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=9",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "Cavite - Vicent la Roda (16)",
+        "lat": 39.479115616941954,
+        "lon": -0.3266646838466293,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=16",
+        "suprimida": 0
+    },
+    {
+        "denominacion": "la Malva-rosa - Sant Rafael (24)",
+        "lat": 39.47911786974092,
+        "lon": -0.32814842442332903,
+        "proximas_llegadas": "http://www.emtvalencia.es/QR.php?sec=est&p=24",
+        "suprimida": 0
+    }
+]
