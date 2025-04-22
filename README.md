@@ -8,7 +8,9 @@
 <!-- tech stack badges ---------------------------------- -->
 <p align='center'>
   <img src='https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23101010&color=%23101010' />
-  <img src='https://img.shields.io/badge/%7B_%7D_scriptable-white?style=flat&labelColor=%23101010&color=%23101010&link=https%3A%2F%2Fscriptable.app' />
+  <a href='https://scriptable.app'>
+    <img src='https://img.shields.io/badge/%7B_%7D_scriptable-white?style=flat&labelColor=%23101010&color=%23101010' />
+  </a>
   <img src='https://img.shields.io/badge/_-18-grey?style=flat&logo=ios&labelColor=%23101010' />
 </p>
 <br/>
