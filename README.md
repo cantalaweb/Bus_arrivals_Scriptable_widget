@@ -1,6 +1,24 @@
+<!-- Title -->
+<h1 align='center'> Bus arrivals widget for iOS </h1>
+
+
+<!-- tag line -->
+<h3 align='center'> For Valencia, Spain </h3>
+
+<!-- tech stack badges ---------------------------------- -->
+<p align='center'>
+  <img src='https://img.shields.io/badge/javascript-white?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=%23101010&color=%23101010' />
+  <img src='https://img.shields.io/badge/%7B_%7D_scriptable-white?style=flat&labelColor=%23101010&color=%23101010&link=https%3A%2F%2Fscriptable.app' />
+  <img src='https://img.shields.io/badge/_-18-grey?style=flat&logo=ios&labelColor=%23101010' />
+</p>
+<br/>
+
+
+
+
 ## Introduction
 This creates an iOS widget, which displays the next 3 bus arrivals for the bus stop closest to the user. It uses the data for the municipal bus service (EMT) for the city of Valencia (Spain).
-![](home_screen.png)
+<img src='home_screen.png' width='400' />
 
 ## Requirements
 - [Scriptable](https://scriptable.app) must be installed in your iOS device.
@@ -26,8 +44,4 @@ This creates an iOS widget, which displays the next 3 bus arrivals for the bus s
 ## Caveats
 - It is not possible to refresh the data once a minute. Apple determines its refresh rate, which is normally every few minutes. So to make it usable, the user can tap on the widget to run the script from Scriptable. After that, if you go back to your home screen, the widget will be showing the updated information.
 - The publicly available `/EMT_Valencia/emt.json` file is almost 500 KB in size. That is apparently too much for iOS widgets, and the script would crash upon reading the file. That is why the `reduce_emt_data.py` Python script is provided. Upon launch, it will read the `emt.json` file and output only the necessary information distributed in 10 files: `emt_1.json` to `emt_10.json`. Those files are the ones the widget reads, one by one, when determining the closest bus stop.
-
-## Tech stack
-- Javascript
-- [Scriptable](https://scriptable.app)
 
